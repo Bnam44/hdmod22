@@ -1,0 +1,11 @@
+Homepage: aPIKEYMenuAimBotUnlockSkin
+Depiction: aPIModCheat
+Author: aESMod
+Maintainer: aESMod
+Name: unlockSkinAimbotMod Cheat
+Package: mod
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+Description: DESModcheat
+DEV: Mod
